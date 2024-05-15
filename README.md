@@ -1,4 +1,4 @@
 # I use Arch btw
 ❤🐧❤🐧❤🐧❤🐧❤🐧
 ## MacOs <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Windows <<<<<<<<<< Linux
-[Nw](https://www.google.com/)
+[Quality](https://www.youtube.com/watch?v=PunVHiOxUEk&pp=ygUSZGFuY2luZyB2ZWdldGFibGVz)
