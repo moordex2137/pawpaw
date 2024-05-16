@@ -1,12 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from './components/header/Header.js';
 
 function App() {
   return (
-    <div>
-      <h1>Kanapki</h1>
-    </div>
+    <Header />
   );
 }
-
 export default App;
