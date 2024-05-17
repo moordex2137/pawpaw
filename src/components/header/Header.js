@@ -11,7 +11,7 @@ function Header() {
         <HeaderItem props='Fluff list'/>
         <HeaderItem props='Contact us'/>
         </div>
-    </div>
+        </div>
     )
 }
 
