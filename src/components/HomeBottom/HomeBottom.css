@@ -1,0 +1,30 @@
+.Lewo {
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+}
+
+.HomeBottom {
+    display: flex;
+    justify-content: center;
+    background-image: url(../../images/dogbackground.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 60px;
+    margin-left: 5%;
+    width: 90%;
+}
+
+.Srodek {
+    font-family: Chivo;
+    font-size: 24px;
+    margin-left: 10px;
+    margin-top: 20px;
+    font-weight: 600;
+    line-height: 28.56px;
+    text-align: left; 
+}
+#ponadczysta {
+    border: 1px solid #00000080;
+    color: #FFFFFF;    
+}
