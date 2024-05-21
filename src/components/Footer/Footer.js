@@ -9,7 +9,7 @@ function Footer() {
             </div>
             <div className='Zasilane'>
                 <p id='ZasilanePrzez'>Powered by</p>
-                <img src={ReactLogo} alt='logo' />
+                <a href='https://react.dev/'><img src={ReactLogo} alt='logo' /></a>
             </div>
         </div>
     )
