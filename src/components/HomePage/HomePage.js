@@ -3,6 +3,7 @@ import TopImages from '../TopImages/TopImages.js';
 import LookingFor from '../LookingFor/LookingFor.js';
 import ShowMore from '../ShowMore/ShowMore.js';
 import HomeBottom from '../HomeBottom/HomeBottom.js';
+import Form from '../Form/Form.js';
 
 function HomePage() {
     return (
@@ -11,6 +12,7 @@ function HomePage() {
             <LookingFor />
             <ShowMore />
             <HomeBottom />
+            <Form />
         </div>
     )
 }

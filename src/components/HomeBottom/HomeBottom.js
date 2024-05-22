@@ -19,7 +19,7 @@ function HomeBottom() {
                 <HomeBottomText
                     dogimg={dog1}
                     dogheader="My humans gave me a wonderful place to guard"
-                    dogdescription="It was important to me to choose the hoomans who liked to take lots of walksies and give good belly rubs. I succeeded!!!"
+                    dogdescription="It was important to me to choose the the hoomans who liked to take lots of walksies and give good belly rubs. I succeeded!!!"
                     dogname="Ahsoka"
                 />
             </div>
