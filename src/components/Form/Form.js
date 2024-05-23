@@ -38,7 +38,7 @@ function ContactForm() {
     else {
         return (
             <div className='wyslanie'>
-                <p id='thanks'>Thank you for submitting your message!</p>
+                <p id='thankss'>Thank you for submitting your message!</p>
                 <button className='guzikodnow' onClick={onClickFalseHandler}>Ok!</button>
             </div>
         )
