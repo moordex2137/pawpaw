@@ -13,7 +13,7 @@ function ContactForm() {
         setClicked(false)
     }
 
-    if (clicked != true)
+    if (clicked !== true)
         return (
             <div className="Form">
                 <div className='Kwadrat'>
